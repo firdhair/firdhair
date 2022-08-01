@@ -40,3 +40,5 @@ Here are some ideas to get you started:
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="arduino" width="40" height="40"/> 
   </a> 
 </p>
+
+<a href="https://wakatime.com/@fbd21a02-061a-4dca-bda0-312fe75ed25c"><img src="https://wakatime.com/badge/user/fbd21a02-061a-4dca-bda0-312fe75ed25c.svg" alt="Total time coded since Dec 25 2020" /></a>
