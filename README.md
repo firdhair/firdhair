@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m mostly learning **Frontend Development** as of now!
-- 👨‍💻 All of my projects are available at [https://github.com/firdhair](https://github.com/firdhair)
+- 👨‍💻 All of my projects are available at [https://github.com/firdhair](https://github.com/firdhair) and [https://gitlab.com/firdhair](https://gitlab.com/firdhair)
 - 📫 You can reach me on **firdhair30@gmail.com**
 - ⚡ Fun fact: I used to play around in embedded programming!
 
